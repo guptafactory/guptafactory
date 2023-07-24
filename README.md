@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Gupta.
-- 👀 I’m currently doing B.Tech CSE 2nd year at ADGITM, Delhi.
+- 👀 I’m currently doing B.Tech CSE 3rd year at GGSIPU, Delhi.
 - 🌱 I’m currently learning DSA and started frontend web development.
 - 💞️ I’m looking to collaborate on development aspects or any open source projects.
 - 📫 You can reach me by www.linkedin.com/in/guptafactory

@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">A passionate full stack developer from Delhi, India</h3>
+<h3 align="center">A Passionate Full Stack Developer from Delhi, India</h3>
 
-- 🌱 I'm currently learning **Artifical Interlligence, Blockchain**
-- 🤝 I'm looking to **Internship roles.**
+- 🌱 I'm currently learning **Artifical Intelligence, Blockchain**
+- 🤝 I'm looking forward to **Internship roles.**
 - 💬 Ask me about **Typescript, React.js, Node.js, AWS**
 - 📫 How to reach me **[guptafactory@gmail.com](https://leetcode.com/guptafactory/)**
 - 👯 I'm also passionate about **Competitive Programming**
-- ⚡ Fun fact **I love trolling by "Wrong Answer on Test 2🙃"**
+- ⚡ Fun fact **I love "Wrong Answer on Test 2🙃"**
 
-## 🌐 Socials:
+## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guptafactory) [![Codechef](https://cp-logo.vercel.app/codechef/guptafactory?logo=true)](https://www.codechef.com/users/guptafactory) [![Codeforces](https://badges.joonhyung.xyz/codeforces/guptafactory.svg)](https://codeforces.com/profile/guptafactory) [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/guptafactory/)
 
@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=guptafactory&theme=dark&hide_border=false&include_all_commits=true&count_private=false)`<br/>`
-![](https://github-readme-streak-stats.herokuapp.com/?user=guptafactory&theme=dark&hide_border=false)`<br/>`
+![](https://github-readme-stats.vercel.app/api?username=guptafactory&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=guptafactory&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptafactory&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies

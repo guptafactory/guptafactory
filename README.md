@@ -10,7 +10,7 @@
 
 ## 🌐 Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptafactory) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptafactory@gmail.com) [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/guptafactory/) [![Codechef](https://cp-logo.vercel.app/codechef/guptafactory?logo=true)](https://www.codechef.com/users/guptafactory) [![Codeforces](https://badges.joonhyung.xyz/codeforces/guptafactory.svg)](https://codeforces.com/profile/guptafactory)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptafactory) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hgupta.tech@gmail.com) [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/guptafactory/) [![Codechef](https://cp-logo.vercel.app/codechef/guptafactory?logo=true)](https://www.codechef.com/users/guptafactory) [![Codeforces](https://badges.joonhyung.xyz/codeforces/guptafactory.svg)](https://codeforces.com/profile/guptafactory)
 
 # 💻 Tech Stack:
 

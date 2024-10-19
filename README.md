@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **Artifical Intelligence, Blockchain**
 - 🤝 I'm looking forward to **Internship roles**
 - 💬 Ask me about **Typescript, React.js, Node.js, AWS**
-- 📫 How to reach me **[guptafactory@gmail.com](mailto:guptafactory@gmail.com)**
+- 📫 How to reach me **[hgupta.tech@gmail.com](mailto:hgupta.tech@gmail.com)**
 - 👯 I'm also passionate about **Competitive Programming**
 - ⚡ Fun fact **I love-hate "Wrong Answer on Test 2🙃"**
 
